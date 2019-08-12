@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fun Switch</string>
+    <string name="title_activity_fullarticle">fullarticle</string>
+    <string name="fragment_search">Today</string>
+    <string name="fragment_watch_list">Later</string>
+</resources>
